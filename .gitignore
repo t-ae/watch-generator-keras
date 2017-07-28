@@ -1,0 +1,7 @@
+__pycache__/
+watch/
+models*/
+history.npy
+train_data.npy
+.idea
+
